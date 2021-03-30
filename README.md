@@ -1,2 +1,4 @@
 # Ali
-Beks
+main.
+npm start
+
